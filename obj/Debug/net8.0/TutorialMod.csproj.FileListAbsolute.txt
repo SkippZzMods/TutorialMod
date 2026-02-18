@@ -1,0 +1,12 @@
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\bin\Debug\net8.0\TutorialMod.deps.json
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\bin\Debug\net8.0\TutorialMod.dll
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\bin\Debug\net8.0\TutorialMod.pdb
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.csproj.AssemblyReference.cache
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.AssemblyInfoInputs.cache
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.AssemblyInfo.cs
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.csproj.CoreCompileInputs.cache
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.dll
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\refint\TutorialMod.dll
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.pdb
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\ref\TutorialMod.dll

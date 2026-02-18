@@ -1,0 +1,11 @@
+Items: {
+	ForestbornSword: {
+		DisplayName: Forestborn Sword
+		Tooltip: Creates healing mushrooms on critical hits
+	}
+
+	HealingMushroom: {
+		DisplayName: Healing Mushroom
+		Tooltip: ""
+	}
+}
