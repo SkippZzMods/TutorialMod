@@ -8,4 +8,14 @@ Items: {
 		DisplayName: Healing Mushroom
 		Tooltip: ""
 	}
+
+	GildedGrenade: {
+		DisplayName: Gilded Grenade
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	GildedGrenadeProjectile.DisplayName: Gilded Grenade Projectile
+	GildedGrenadeExplosion.DisplayName: Gilded Grenade Explosion
 }

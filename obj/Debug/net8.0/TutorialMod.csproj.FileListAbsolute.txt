@@ -10,3 +10,4 @@ D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debu
 D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\refint\TutorialMod.dll
 D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.pdb
 D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\ref\TutorialMod.dll
+D:\Collin\Documents\My Games\Terraria\tModLoader\ModSources\TutorialMod\obj\Debug\net8.0\TutorialMod.sourcelink.json
