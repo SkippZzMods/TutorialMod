@@ -13,9 +13,16 @@ Items: {
 		DisplayName: Gilded Grenade
 		Tooltip: ""
 	}
+
+	SporebloomStaff: {
+		DisplayName: Sporebloom Staff
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
 	GildedGrenadeProjectile.DisplayName: Gilded Grenade Projectile
 	GildedGrenadeExplosion.DisplayName: Gilded Grenade Explosion
+	SporebloomStaffHoldout.DisplayName: Sporebloom Staff Holdout
+	SporebloomStaffSpore.DisplayName: Sporebloom Staff Spore
 }

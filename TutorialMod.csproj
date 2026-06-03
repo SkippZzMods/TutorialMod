@@ -9,6 +9,7 @@
 	</PropertyGroup>
 	<ItemGroup>
 	  <None Remove="Content\Items\Weapons\ForestbornSword.png" />
+	  <None Remove="Content\Items\Weapons\Magic\SporebloomStaffSpore.png" />
 	</ItemGroup>
 
 	<!-- References -->
