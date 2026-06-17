@@ -18,6 +18,11 @@ Items: {
 		DisplayName: Sporebloom Staff
 		Tooltip: ""
 	}
+
+	SucculentSceptre: {
+		DisplayName: Succulent Sceptre
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
@@ -25,4 +30,12 @@ Projectiles: {
 	GildedGrenadeExplosion.DisplayName: Gilded Grenade Explosion
 	SporebloomStaffHoldout.DisplayName: Sporebloom Staff Holdout
 	SporebloomStaffSpore.DisplayName: Sporebloom Staff Spore
+	SucculentSceptreMinion.DisplayName: Succulent Sceptre Minion
+}
+
+Buffs: {
+	SucculentSceptreSummonBuff: {
+		DisplayName: Succulent Sceptre Summon Buff
+		Description: Mods.TutorialMod.Buffs.SucculentSceptreSummonBuff.Description
+	}
 }
