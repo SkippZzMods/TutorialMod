@@ -21,7 +21,7 @@ Items: {
 
 	SucculentSceptre: {
 		DisplayName: Succulent Sceptre
-		Tooltip: ""
+		Tooltip: Summons a cactus sphere to protect you!
 	}
 }
 
@@ -35,7 +35,7 @@ Projectiles: {
 
 Buffs: {
 	SucculentSceptreSummonBuff: {
-		DisplayName: Succulent Sceptre Summon Buff
-		Description: Mods.TutorialMod.Buffs.SucculentSceptreSummonBuff.Description
+		DisplayName: Cactus Ball
+		Description: I think it's looking at you..
 	}
 }
