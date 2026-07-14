@@ -25,7 +25,11 @@ Items: {
 	}
 
 	HealshroomCharm: {
-		Tooltip: ""
+		Tooltip: 
+		'''
+		Healing items grant a delayed heal after 3 seconds
+		This heal creates a lingering cloud of regenerative spores
+		'''
 		DisplayName: Healshroom Charm
 	}
 }

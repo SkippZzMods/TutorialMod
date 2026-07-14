@@ -18,6 +18,7 @@ namespace TutorialMod.Content.Items.Accessories.Forest
             Item.DefaultToAccessory();
 
             Item.rare = ItemRarityID.Blue;
+            Item.defense = 2;
         }
 
         public override void UpdateEquip(Player player)
