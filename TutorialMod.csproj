@@ -8,6 +8,7 @@
 		
 	</PropertyGroup>
 	<ItemGroup>
+	  <None Remove="Content\Items\Accessories\Forest\HealshroomCharmSpore.png" />
 	  <None Remove="Content\Items\Weapons\ForestbornSword.png" />
 	  <None Remove="Content\Items\Weapons\Magic\SporebloomStaffSpore.png" />
 	</ItemGroup>
@@ -15,7 +16,6 @@
 	<!-- References -->
 	<ItemGroup>
 	  <Folder Include="Assets\" />
-	  <Folder Include="Content\Items\Accessories\" />
 	  <Folder Include="Content\NPCS\" />
 	  <Folder Include="Content\Dusts\" />
 	</ItemGroup>

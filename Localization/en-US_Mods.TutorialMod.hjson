@@ -23,6 +23,11 @@ Items: {
 		DisplayName: Succulent Sceptre
 		Tooltip: Summons a cactus sphere to protect you!
 	}
+
+	HealshroomCharm: {
+		Tooltip: ""
+		DisplayName: Healshroom Charm
+	}
 }
 
 Projectiles: {
@@ -31,6 +36,7 @@ Projectiles: {
 	SporebloomStaffHoldout.DisplayName: Sporebloom Staff Holdout
 	SporebloomStaffSpore.DisplayName: Sporebloom Staff Spore
 	SucculentSceptreMinion.DisplayName: Succulent Sceptre Minion
+	HealshroomCharmSpore.DisplayName: Healshroom Charm Spore
 }
 
 Buffs: {
